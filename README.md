@@ -22,7 +22,7 @@ In the end, the goal is simple: build a resilient, long-term trading system. One
 
 A system designed not for quick wins—but for steady, sustainable growth. 🚀
 
-# Market Types.
+# Market Types
 
 - Polymarket includes Politics, Sports, Crypto, Economic, Geopolitical, Entertainment, and Experimental markets.
 - Politics & Macro markets are longer-term and news-driven, suitable for medium-term copy strategies.
